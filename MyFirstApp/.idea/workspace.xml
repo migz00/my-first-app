@@ -41,11 +41,13 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14886165">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.8038529">
+              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
               <folding>
-                <element signature="e#431#453#0" expanded="true" />
-                <element signature="e#578#599#0" expanded="true" />
+                <element signature="e#401#423#0" expanded="true" />
+                <element signature="e#601#622#0" expanded="true" />
+                <element signature="e#831#853#0" expanded="true" />
+                <element signature="e#1081#1102#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1716,11 +1718,13 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14886165">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.8038529">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
           <folding>
-            <element signature="e#431#453#0" expanded="true" />
-            <element signature="e#578#599#0" expanded="true" />
+            <element signature="e#401#423#0" expanded="true" />
+            <element signature="e#601#622#0" expanded="true" />
+            <element signature="e#831#853#0" expanded="true" />
+            <element signature="e#1081#1102#0" expanded="true" />
           </folding>
         </state>
       </provider>
